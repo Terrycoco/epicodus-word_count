@@ -1,9 +1,11 @@
 class String
   define_method(:word_count) do |word|
     count = 0
-    if self.include? word
+    sentence = self
+    while (sentence.include? word)
       count += 1
+      sentence.sub!(word, "")
     end
-    count
+    return count
   end
 end
