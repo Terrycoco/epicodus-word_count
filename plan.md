@@ -18,10 +18,11 @@
  --make sure capybara is installed in gemfile
  --add capabara syntax to integration file
  --create integration spec with desired behavior result
- -code app.rb routing file
- -code views - layout, index, count
- -run test til passes
- -commit after each pass
+ --code app.rb routing file
+ --code views - layout, index, count
+ --run test til passes
+ --commit after each pass
+ --test from terminal
 
  DEPLOYMENT
  -push file to git
