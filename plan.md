@@ -25,8 +25,12 @@
  --test from terminal
 
  DEPLOYMENT
- -push file to git
- -heroku - follow cheat sheet
+ --heroku login
+ --create config.ru file
+ --commit and push to github
+ --heroku create
+ --git push heroku master
+
 
 
 

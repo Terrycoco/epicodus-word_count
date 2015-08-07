@@ -9,9 +9,9 @@
 _This is an application that takes a sentence and word from user and returns count of how many times that word appears in sentence_
 
 ## Setup
-
-Clone repository
-run_
+download repository and run from ruby or
+this can be run from heroku from this link:
+ https://git.heroku.com/afternoon-brook-9048.git
 
 ## Technologies Used
 
