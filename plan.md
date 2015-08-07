@@ -9,15 +9,15 @@
  --README.md - use template
 
  UNIT TESTING
- -write initial spec
- -write code to meet spec - run rspec to test
- -repeat til all specs pass
- -commit after each pass
+ --write initial spec
+ --write code to meet spec - run rspec to test
+ --repeat til all specs pass
+ --commit after each pass
 
  INTEGRATION
- -make sure capybara is installed in gemfile
- -add capabara syntax to integration file
- -create process spec with desired behavior result
+ --make sure capybara is installed in gemfile
+ --add capabara syntax to integration file
+ --create integration spec with desired behavior result
  -code app.rb routing file
  -code views - layout, index, count
  -run test til passes
